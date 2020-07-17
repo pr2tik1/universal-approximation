@@ -17,6 +17,9 @@ The notion is, Feed Forward Neural Networks are function approximation machines 
 2. Sine <br> 
 ![alt text](https://github.com/pr2tik1/universal-approximation/blob/master/images/sine.jpeg)
 
+3. Custom Function <br> 
+![alt text](https://github.com/pr2tik1/universal-approximation/blob/master/images/cust.jpeg)
+
 ### Functions Approximated:
 
 1. Cosine <br>  
@@ -24,6 +27,9 @@ The notion is, Feed Forward Neural Networks are function approximation machines 
 
 2. Sine <br> 
 ![alt text](https://github.com/pr2tik1/universal-approximation/blob/master/images/approx_sine.jpeg)
+
+3. Custom Function <br> 
+![alt text](https://github.com/pr2tik1/universal-approximation/blob/master/images/custom.jpeg)
 
 ## Author
 
