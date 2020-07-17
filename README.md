@@ -8,7 +8,7 @@ This project is based upon approximation theorem of neural network known as **Un
 The notion is, Feed Forward Neural Networks are function approximation machines that achieve generalization statistically. I have taken basic functions such as cosine and sine. You may follow the article below for reference, 
 <br>
 <br>
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/) 
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@pratikbaitha04/exploring-neural-networks-and-their-fascinating-effectiveness-81ebc054cb16?sk=a1b3d3fd0ff9224773ca15e4364bcd65) 
 
 ### Functions :
 1. Cosine <br> 
